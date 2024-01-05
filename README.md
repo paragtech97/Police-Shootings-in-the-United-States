@@ -46,3 +46,15 @@ The analysis revealed various insights into demographic patterns, incident chara
 
 Conclusion
 The findings from this analysis contribute to the understanding of police shootings, emphasizing the importance of addressing disparities and promoting transparency in law enforcement practices. The insights gained can inform discussions on policy reforms, community policing, and efforts to ensure fair and just treatment for all individuals.
+
+References:
+
+McKinney, W. (2010). Data Structures for Statistical Computing in Python. In Proceedings of the 9th Python in Science Conference (pp. 56-61).
+
+Hunter, J. D. (2007). Matplotlib: A 2D Graphics Environment. Computing in Science & Engineering, 9(3), 90-95.
+
+Seaborn: Statistical Data Visualization. (n.d.). Retrieved from https://seaborn.pydata.org/
+
+Pandas Documentation. (n.d.). Retrieved from https://pandas.pydata.org/pandas-docs/stable/index.html
+
+Police Shootings Data (Excel file): Provided by the UMass Dartmouth Mathematical Statistics course for Fall 2023.
